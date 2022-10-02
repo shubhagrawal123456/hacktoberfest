@@ -522,3 +522,10 @@
 - Place: Wales, United Kingdom
 - Bio: I am a frontend developer that specialises in Vue.js
 - GitHub: [sjpulman](https://github.com/sjpulman)
+
+#### Name: [Sam Pulman](https://github.com/sjpulman)
+
+- Place: Delhi,India
+- Bio: I am a Power BI Devloper and Competitive Coder
+- GitHub: [Shubh Agrawal](https://github.com/shubhagrawal123456)
+
